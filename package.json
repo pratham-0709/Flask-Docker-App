@@ -1,0 +1,24 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.9.1",
+    "apollo-server": "^3.12.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "graphql": "^16.8.0",
+    "install": "^0.13.0",
+    "micro-cors": "^0.1.1",
+    "nodemon": "^3.0.1",
+    "npm": "^9.8.1"
+  }
+}
